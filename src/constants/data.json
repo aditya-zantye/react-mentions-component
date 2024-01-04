@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+          "id": 1,
+          "first_name": "Merell",
+          "last_name": "Covert",
+          "email": "mcovert0@hibu.com",
+          "gender": "Male"
+        },
+        {
+          "id": 2,
+          "first_name": "Sandy",
+          "last_name": "Maunton",
+          "email": "smaunton1@mtv.com",
+          "gender": "Female"
+        },
+        {
+          "id": 3,
+          "first_name": "Dix",
+          "last_name": "Lunney",
+          "email": "dlunney2@vimeo.com",
+          "gender": "Female"
+        }
+      ]
+}
